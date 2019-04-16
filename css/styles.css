@@ -4,27 +4,27 @@
 }
 .blue{
     background-color:blue;
-    height:80px;
+    height:180px;
 }
 .green{
     background-color:green;
-    height:30px;
+    height:80px;
 }
 .lightblue{
     background-color:lightblue;
-    height:90px;
+    height:190px;
 }
 .red{
     background-color:red;
-    height:90px;
+    height:190px;
 }
 .orange{
     background-color:orange;   
-    height:80px; 
+    height:180px; 
 }
 .black{
     background-color:black;
-    height:20px;
+    height:70px;
 }
 .border{
     border:solid 2px black
