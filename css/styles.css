@@ -1,23 +1,30 @@
 .yellow{
     background-color:yellow;
+    height:auto;
 }
 .blue{
     background-color:blue;
+    height:80px;
 }
 .green{
     background-color:green;
+    height:30px;
 }
 .lightblue{
     background-color:lightblue;
+    height:90px;
 }
 .red{
     background-color:red;
+    height:90px;
 }
 .orange{
-    background-color:orange;    
+    background-color:orange;   
+    height:80px; 
 }
 .black{
     background-color:black;
+    height:20px;
 }
 .border{
     border:solid 2px black
